@@ -1,0 +1,178 @@
+/* Your styles here */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Arial, Helvetica, sans-serif sans-serif;
+    background-color: #E2E6E7;
+}
+header{
+    background-color: #222F3E;
+    width: 100%;
+    height: auto;
+}
+
+header img{
+    width: 10%;
+}
+
+nav{
+    width: 100%;
+    font-size: 0.7em;
+    color: white;
+    height: auto;
+    background-color: #35485A;
+}
+
+nav ol{
+    padding: 0.5em;
+}
+
+nav ol li{
+    display: inline-block;
+    padding: 0 0.5em;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+main{
+    width: 95%;
+    margin: auto;
+}
+
+h2{
+    padding: 1em;
+}
+
+#section1{
+    background-color: orangered;
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin: 1em 0;
+    padding: 0.5em
+}
+
+#section2 {
+    display: inline-block;
+    background-image: url(../images/bg-image.png);
+    background-size: contain;
+    height: 30vh;
+    width: 100%;
+    margin-bottom: 1em;
+    text-align: center;
+}
+   
+
+
+#section2  div{
+    display: inline-block;
+    padding: 3em;
+    color: white;
+}
+#section3{
+    height: fit-content;
+    background-color: white;
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    
+}
+
+
+#immagini {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 1em;
+    box-sizing: border-box;
+}
+
+#immagini img {
+    width: 24%;
+    height: 50vh;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: #222F3E 0px 0px 10px;
+  
+    
+   
+    
+}
+
+figcaption a{
+    color: blue;
+}
+
+
+#section4{
+    width: 100%;
+    height:30%;
+    margin-bottom: 2em;
+
+}
+
+#section4 img{
+    width: 100%;
+    height: 100%;
+}
+
+#section5{
+    width: 100%;
+    height:30%;
+    margin-bottom: 2em;
+
+
+}
+
+#section5 img{
+    width: 100%;
+    height: 100%;
+}
+
+figcaption{
+    text-align: center;
+
+    
+}
+footer{
+    display: inline-block;
+    width: 100%;
+}
+
+#tornasu{
+    width: 100%;
+    height: fit-content;
+    background-color: #36465A;
+    color: white;
+    text-align: center;
+    padding: 0.3em;
+}
+#footersection {
+    background-color: #222F3E;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+}
+#footersection img {
+    display: inline-block; 
+    width: 10%;
+    vertical-align: middle;
+    padding: 2em;
+    box-sizing: content-box;
+}
+
+    
+  
+   
